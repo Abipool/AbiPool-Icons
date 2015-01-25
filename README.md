@@ -1,7 +1,8 @@
 <h1>AbiPool</h1>
 <br><i>FlatIcons für die Webpage</i></br>
 
-<h2Julius</h2>
+
+<h2>Julius</h2>
 
 <img width="100px" height="100px" src="Sharp_Flat_Julius/art.png"></img>
 <img width="100px" height="100px" src="Sharp_Flat_Julius/bio.png"></img>
@@ -21,3 +22,9 @@
 <img width="100px" height="100px" src="Sharp_Flat_Youri/spanish.png"></img>
 <img width="100px" height="100px" src="Sharp_Flat_Youri/exit.png"></img>
 <img width="100px" height="100px" src="Sharp_Flat_Youri/andere.png"></img>
+
+<pre>
+Copyright by Julius and Youri 2015
+</pre>
+
+<br>Palette: <a href="http://bootflat.github.io/color-picker.html">BootFlat</a>
