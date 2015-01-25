@@ -13,7 +13,6 @@
 <img width="100px" height="100px" src="Sharp_Flat_Julius/pc.png"></img>
 <img width="100px" height="100px" src="Sharp_Flat_Julius/politic.png"></img>
 <img width="100px" height="100px" src="Sharp_Flat_Julius/placeholder.png"></img>
-<img width="100px" height="100px" src="Sharp_Flat_Julius/placeholder.png"></img>
 
 <h2>Youri</h2>
 
